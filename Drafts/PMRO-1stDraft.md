@@ -18,7 +18,7 @@ Additionally, we argue that there is a need to move away from the ambiguous use 
 
 Basic science research is increasingly data-driven, but the valued products of contemporary research include a broad range of artifacts - reagents, specimens, physical and chemical samples, executable workflows, and software (which themselves range in complexity from 10 line scripts to 10,000 lines in an earth systems model). 
 
-Each of these artifacts also have their own legacy of curation - biological specimens for instance are prepared and digitized using techniques that mix new informatics approaches with traditional documentary resources, such as field-notebooks (Thomer et al, 2011). Research software on the other hands has traditionally taken a laisse faire approach to preservation, in that code was assumed to "harden" over time and hence its purposeful stewardship was a by-product of its continued use (Chung et al, 2010).
+Each of these artifacts also have their own legacy of curation - biological specimens for instance are painstakingly prepared and digitized using techniques that mix new informatics approaches with traditional documentary resources, such as field-notebooks (Thomer et al, 2011). This is in contrast to artifacts like research software, which has traditionally taken a laisse faire approach to preservation, in that code was assumed to "harden" over time and hence its purposeful stewardship was a by-product of its continued use (Chung et al, 2010).
 
 Research data curation - as it has emerged over the last decade - tends to lump this range of artifacts, and their curatorial activities together under "data", making an argument that such materials are simply inputs for the "doing" of science (Gold, 2010). 
 
