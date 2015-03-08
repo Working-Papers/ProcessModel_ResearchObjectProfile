@@ -1,7 +1,7 @@
 ##Research Object Profiles and Process Modeling for Curation
 
 ###Abstract
-Data curation is inherently collaborative  - it requires the coordination and cooperation of stakeholders with (potentially) different views on how research is conducted, and the value of the objects that are produced, and consequently what should and should not be preserved for long-term access.
+Data curation is inherently collaborative  - it requires the coordination and cooperation of stakeholders with different views on how research should be conducted, the value of the objects that are produced, and consequently what should and should not be preserved for long-term access.
 
 Consequently, sound data management requires that we model and in some sense formalize these different views so as to develop research infrastructure that are both useful and reliable to each stakeholder group. 
 
