@@ -5,7 +5,7 @@ Data curation is inherently collaborative  - it requires the coordination and co
 
 Consequently, sound data management requires that we model and in some sense formalize these different views so as to develop research infrastructure that are both useful and reliable to each stakeholder group. 
 
-Drawing on techniques from information systems management, this paper describes a method - process modeling - that can bring clarity to these issues in data curation.
+Drawing on techniques from information systems management this paper describes a teachnique - process modeling - that can bring clarity to these issues in data curation.
 
 Additionally, we argue that there is a need to move away from the ambiguous use of "data" as a blanket term for the many different artifacts produced in a research process; for instance,  software, executable workflows, and even physical specimens are critical components of many eScience research endeavors. Instead, we draw upon the emerging work of "research objects" and in particular the concept of of research object profiling in order to advance curation for reuse.
 
